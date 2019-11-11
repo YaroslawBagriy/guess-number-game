@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 28760,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
   "expoServerNgrokUrl": "https://8n-bma.anonymous.guess-number-game.exp.direct",
   "packagerNgrokUrl": "https://packager.8n-bma.anonymous.guess-number-game.exp.direct",
-  "ngrokPid": 28797,
+  "ngrokPid": 98747,
   "webpackServerPort": null
 }
